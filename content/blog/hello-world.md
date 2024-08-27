@@ -1,6 +1,6 @@
 ---
 layout: blog
 title: Hello World
-date: 2024-08-27T17:51:00.000Z
+date: +0200-08-27T06:02:00+02:00
 ---
 Does this work now?
